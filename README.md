@@ -14,6 +14,6 @@ npm install ile kütüphaneleri indiriniz daha sonra npm run start ve baska bir 
  "email":"info@github.com"
  },
 "to":["yasinautomation34@outlook.com","yasinyt1834@gmail.com"],
-"subject":"tiplay studio Talep \u0130\u015flemleri",
+"subject":"Mail Gönderim İşlemleri",
 "html":"<html><p>Merhaba</p> </html>"
 }
