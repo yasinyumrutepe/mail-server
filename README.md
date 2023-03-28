@@ -7,7 +7,7 @@ MAİL gönderimi için öncelikle .env içerisindeki alanları doldurmanız gere
 npm install ile kütüphaneleri indiriniz daha sonra npm run start ve baska bir terminalde de npm run consumer komutlarını yazınız.
 
 Örnek Gönderim şekli aşagıdaki gibidir HTML içerik gönderebilmektedir sadece 
-
+```
 {
  "from":{
  "name":"tiplay studio",
@@ -17,3 +17,4 @@ npm install ile kütüphaneleri indiriniz daha sonra npm run start ve baska bir 
 "subject":"Mail Gönderim İşlemleri",
 "html":"<html><p>Merhaba</p> </html>"
 }
+```
