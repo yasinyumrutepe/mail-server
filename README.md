@@ -10,10 +10,10 @@ npm install ile kütüphaneleri indiriniz daha sonra npm run start ve baska bir 
 ```
 {
  "from":{
- "name":"tiplay studio",
+ "name":"Yasin Yumrutepe",
  "email":"info@github.com"
  },
-"to":["yasinautomation34@outlook.com","yasinyt1834@gmail.com"],
+"to":["yasin@yasin.com","yasin@yasin.com.tr"],
 "subject":"Mail Gönderim İşlemleri",
 "html":"<html><p>Merhaba</p> </html>"
 }
